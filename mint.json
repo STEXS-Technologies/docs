@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "STEXS",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -52,6 +52,11 @@
       "url": "https://mintlify.com/blog"
     }
   ],
+  "feedback": {
+    "thumbsRating": true,
+    "raiseIssue": true,
+    "suggestEdit": true
+  },
   "navigation": [
     {
       "group": "Get Started",
@@ -91,5 +96,9 @@
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
+  },
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
   }
 }
